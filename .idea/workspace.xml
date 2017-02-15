@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db662af2-af1f-4975-9f49-39409fcbf32b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1square-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1square-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1square-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ButtonsBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/FramedBack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ILIASDemo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ILIASDemo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ILIASDownload.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ILIASDownload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/black60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/block_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blue60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bluebg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/form_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/header_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/media_placeholder_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/openid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pred_text_placeholder_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/question_placeholder_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/asset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/asset_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/browsed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/browsed_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/complete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/complete_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/completed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/completed_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/failed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/failed_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/incomplete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/incomplete_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/not_attempted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/not_attempted_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/passed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/passed_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/running.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/running_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sn-facebook.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sn-rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sn-twitter.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/text_placeholder_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Bakker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/BertvanderLinden.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Bianchi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Borg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Doll.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Held.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Hesser.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Hollenstein.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/JohnvdB.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Koegler.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Madsack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Testimonials_Hollenstein.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Testimonials_Koegler.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/Vondenhoff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testimonials/bg-quotation_testimonials.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Services/Container/tpl.container_list_block.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Services/Init/tpl.startup_screen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Services/MainMenu/tpl.main_menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Services/News/tpl.block_row_news_for_context.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Services/User/tpl.edit_personal_profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/HeaderIcon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/HeaderIconAvatar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jstree.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/asset.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/complete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/completed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/failed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/incomplete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/not_attempted.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/passed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/scorm/running.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tree_col.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tree_exp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.simpleSlide_min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tpl.startup_screen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Services/Init/tpl.startup_screen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ios-use.less" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ios-use.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db662af2-af1f-4975-9f49-39409fcbf32b" name="Default" comment="" />
+      <created>1487160847302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487160847302</updated>
+      <workItem from="1487160848611" duration="81000" />
+      <workItem from="1487160958270" duration="45000" />
+      <workItem from="1487161027837" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="538000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Services/Init/tpl.startup_screen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/js/jquery.simpleSlide_min.js" />
+    <entry file="file://$PROJECT_DIR$/Services/Init/tpl.startup_screen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios-use.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
